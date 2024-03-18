@@ -6,3 +6,4 @@
 3. HTTP METHODS - https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 4. HTTP STATUS CODES - https://httpstatuses.io/
 5. Firestore Documentation - https://firebase.google.com/docs/firestore/query-data/get-data
+6. Flask Documentation - https://flask.palletsprojects.com/en/3.0.x/
